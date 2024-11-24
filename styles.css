@@ -1,0 +1,19 @@
+/* Style pour le header */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4b400;
+    padding: 20px;
+    color: white;
+}
+
+.header .logo {
+    height: 60px;
+    margin-right: 20px;
+}
+
+.header h1 {
+    font-size: 24px;
+    margin: 0;
+}
